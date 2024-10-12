@@ -77,7 +77,7 @@ nav img {
 }
 @media screen and (max-width: 850px) {
     body {
-        margin: 20%;
+        position: absolute;
     }
     nav{
         display: flex;
