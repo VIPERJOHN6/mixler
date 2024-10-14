@@ -79,13 +79,14 @@ nav img {
     font-size: x-large;
 }
 @media screen and (max-width: 850px) {
+    .top {
+    }
     nav{
         display: flex;
         flex-direction: column;
     }
     nav ul {
         display: flex;
-
     }
     .list button {
         font-size: 0%;
@@ -102,6 +103,7 @@ nav img {
     }
     .prof p {
         margin-top: 10%;
+        font-size: large;
         
     }
     .prof h1 {
