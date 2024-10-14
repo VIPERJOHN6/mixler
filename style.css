@@ -79,8 +79,6 @@ nav img {
     font-size: x-large;
 }
 @media screen and (max-width: 850px) {
-    .top {
-    }
     nav{
         display: flex;
         flex-direction: column;
@@ -102,11 +100,8 @@ nav img {
         border-color: rgb(143, 143, 143);
     }
     .prof p {
-        margin-top: 10%;
-        font-size: large;
-        
+        margin-top: 5%;
+        font-size: 35px;
     }
-    .prof h1 {
-        word-break: break-all;
-    }
+
 }
